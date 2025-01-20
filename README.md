@@ -22,17 +22,6 @@ Welcome to the **DSA in Java** repository! This repository contains solutions to
 
 ---
 
-## 🚀 How to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/DSA-in-Java.git
-   ```
-2. Explore solutions categorized by topics in the respective folders.
-3. Run the solutions in your preferred Java IDE to test and learn.
-4. Refer to comments and explanations for better understanding.
-
----
-
 ## 🤝 Contributions:
 Contributions are welcome! If you'd like to add new solutions, fix bugs, or improve documentation, feel free to fork the repository, make changes, and submit a pull request. 
 
